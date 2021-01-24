@@ -4,7 +4,7 @@
 
 🇷🇺 Привет, это мой блог
 
-## List if articles / Список статей
+## List of articles / Список статей
 
 - [🇬🇧 Write your own enumerable object in Ruby](https://github.com/kopylovvlad/articles/tree/master/articles/050_write_your_own_enumerable_object_in_ruby)
 - [🇬🇧 Using algebraic effects in Ruby for Dependency Injection](https://github.com/kopylovvlad/articles/tree/master/articles/049_using_algebraic_effects_in_ruby_for_dependency_injection)
