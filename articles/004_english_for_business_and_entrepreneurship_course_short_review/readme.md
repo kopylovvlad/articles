@@ -1,4 +1,4 @@
-# “English for Business and Entrepreneurship” course short review
+# "English for Business and Entrepreneurship" course short review
 
 ![image01](image01.jpeg)
 
@@ -16,12 +16,12 @@ It was new great experience for me. I choose course “English for Business and 
 
 It is great and interesting course for non-native English speakers. At this course you will learn about business economy. Course have video lectures, tests, cases and homework. You will learn:
 
-* What different between entrepreneur and business-owner
-* How to write survey
-* Why and how to write business plan
-* Why we need a financials plan
-* What is marketing mix
-* How to pitch
+- What different between entrepreneur and business-owner
+- How to write survey
+- Why and how to write business plan
+- Why we need a financials plan
+- What is marketing mix
+- How to pitch
 
 Course have 2 very interesting assessments: “Your Survey and Result” and “Written Business Plan”.
 
