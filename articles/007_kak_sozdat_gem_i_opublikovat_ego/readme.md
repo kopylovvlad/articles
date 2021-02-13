@@ -107,7 +107,7 @@ gem 'rspec'
 require './lib/meta_information'
 
 RSpec.describe 'MetaInformation' do
-  
+
   describe 'create_meta_array' do
     describe 'we have meta' do
       it 'must create array' do
@@ -136,7 +136,7 @@ RSpec.describe 'MetaInformation' do
         ])
       end
     end
-    
+
     describe 'without meta' do
       it 'has empty array' do
         first_document = Nokogiri::HTML('
@@ -163,14 +163,14 @@ RSpec.describe 'MetaInformation' do
       expect(MetaInformation.send(:valid_url?, 'https://somesite.com/some_page/page')).to be_truthy
       expect(MetaInformation.send(:valid_url?, 'https://somesite.com.uk/some_page')).to be_truthy
     end
-    
+
     it 'does not valid' do
       expect(MetaInformation.send(:valid_url?, 'some_site')).to be_falsey
       expect(MetaInformation.send(:valid_url?, 'http\\:wwwsome_site.ru')).to be_falsey
       expect(MetaInformation.send(:valid_url?, 'com.some_site')).to be_falsey
     end
   end
-  
+
   describe 'private hash equal' do
     it 'not_valid_url_error hash' do
       expect(MetaInformation.send(:not_valid_url_error)).to eq({
@@ -289,6 +289,13 @@ $ curl -u USER_NAME https://rubygems.org/api/v1/api_key.yaml > ~/.gem/credential
 $ git add —all
 $ git commit
 $ git push origin master
+```
+
+И не забываем создать и запушить теги
+
+```bash
+git tag -a v1.0.1 -m "version 1.0.1"
+git push --tags
 ```
 
 Публикуем гем и проверяем что он доступен
