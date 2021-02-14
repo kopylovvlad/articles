@@ -96,3 +96,5 @@ And here is our result.
 ```
 
 It works perfectly.
+
+[dev.to](https://dev.to/kopylov_vlad/how-to-sanitize-xml-tags-in-rails-4iid)
