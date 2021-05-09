@@ -6,6 +6,7 @@
 
 ## List of articles / Список статей
 
+- [🇬🇧 Algorithms for Ruby developer: Binary search](https://github.com/kopylovvlad/articles/tree/master/articles/052_algorithms_for_ruby_developer_binary_search)
 - [🇬🇧 How to sanitize XML tags in Rails](https://github.com/kopylovvlad/articles/tree/master/articles/051_how_to_sanitize_xml_in_rails)
 - [🇬🇧 Write your own enumerable object in Ruby](https://github.com/kopylovvlad/articles/tree/master/articles/050_write_your_own_enumerable_object_in_ruby)
 - [🇬🇧 Using algebraic effects in Ruby for Dependency Injection](https://github.com/kopylovvlad/articles/tree/master/articles/049_using_algebraic_effects_in_ruby_for_dependency_injection)
