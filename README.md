@@ -1,11 +1,12 @@
 # Hi there 👋
 
-🇬🇧 Hello, it's my blog
+🇬🇧 Hello, it's my blog. You can find here articles about programming, computer science and Ruby.
 
-🇷🇺 Привет, это мой блог
+🇷🇺 Привет, это мой блог. Ты можешь найти здесь статьи про программирование, алгоритмы и Ruby
 
 ## List of articles / Список статей
 
+- [🇷🇺 Какую базу данных выбрать под свой проект](https://github.com/kopylovvlad/articles/tree/master/articles/053_kakuyu_bazu_dannih_vibrat_pod_svoi_proekt)
 - [🇬🇧 Algorithms for Ruby developer: Binary search](https://github.com/kopylovvlad/articles/tree/master/articles/052_algorithms_for_ruby_developer_binary_search)
 - [🇬🇧 How to sanitize XML tags in Rails](https://github.com/kopylovvlad/articles/tree/master/articles/051_how_to_sanitize_xml_in_rails)
 - [🇬🇧 Write your own enumerable object in Ruby](https://github.com/kopylovvlad/articles/tree/master/articles/050_write_your_own_enumerable_object_in_ruby)
