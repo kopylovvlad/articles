@@ -1,8 +1,10 @@
 # Hi there 👋
 
-🇬🇧 Hello, it's my blog. You can find here articles about programming, computer science and Ruby.
+🇬🇧
+Hello, it's my blog. Here I post links to my article about computer science, software engineering, programming on Ruby, Ruby on Rails etc.
 
-🇷🇺 Привет, это мой блог. Ты можешь найти здесь статьи про программирование, алгоритмы и Ruby
+🇷🇺
+Привет, это мой блог. Здесь я публикую ссылки на мои статьи о компьютерных науках, программировании, Ruby, RoR и прочее.
 
 ## List of articles / Список статей
 
