@@ -8,6 +8,8 @@ Hello, it's my blog. Here I post links to my article about computer science, sof
 
 ## List of articles / Список статей
 
+- [🇷🇺 Кто/Что такое DevOps?](https://github.com/kopylovvlad/articles/tree/master/articles/055_kto_chto_takoe_devops)
+- [🇷🇺 Список докладов что я советую к просмотру (2021)](https://github.com/kopylovvlad/articles/tree/master/articles/054_spisok_dokladov_chto_ya_sovetuyu_k_prosmotru)
 - [🇷🇺 Какую базу данных выбрать под свой проект](https://github.com/kopylovvlad/articles/tree/master/articles/053_kakuyu_bazu_dannih_vibrat_pod_svoi_proekt)
 - [🇬🇧 Algorithms for Ruby developer: Binary search](https://github.com/kopylovvlad/articles/tree/master/articles/052_algorithms_for_ruby_developer_binary_search)
 - [🇬🇧 How to sanitize XML tags in Rails](https://github.com/kopylovvlad/articles/tree/master/articles/051_how_to_sanitize_xml_in_rails)
