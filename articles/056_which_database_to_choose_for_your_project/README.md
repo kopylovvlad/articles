@@ -95,27 +95,35 @@ The most popular key-value database is [neo4j](https://neo4j.com/)
 
 There is practical advice on what database to use. There are several cases, you can choose one that suits you the best.
 
-**case**: We are going to write a tiny application that will show users any information (weather, exchange rates, number of days without accident etc)
-**database**: key-value DB (Redis)
-**why**: In this case, we will operate by primitive data type. A key-value database is enough for us.
+- **case**: We are going to write a tiny application that will show users any information (weather, exchange rates, number of days without accident etc)
+- **database**: key-value DB (Redis)
+- **why**: In this case, we will operate by primitive data type. A key-value database is enough for us.
+<br/>
 
-**case**: We plan to write an app for tracking one type of daily user’s activities (steps, the daily amount of glass of water, etc)
-**database**: key-value DB (Redis)
-**why**: look at the previous case
+- **case**: We plan to write an app for tracking one type of daily user’s activities (steps, the daily amount of glass of water, etc)
+- **database**: key-value DB (Redis)
+- **why**: look at the previous case
+<br/>
 
-**case**: We want to create an application that will collect data from different sources. Then it will aggregate the data to show charts and dashboards.
-**database**: document-oriented DB (mongoDB)
-**why**: The database is best suited to store different data-structure in one collection. It provides a powerful aggregation feature and we can calculate data just with `map/filter/reduce`.
+- **case**: We want to create an application that will collect data from different sources. Then it will aggregate the data to show charts and dashboards.
+- **database**: document-oriented DB (mongoDB)
+- **why**: The database is best suited to store different data-structure in one collection. It provides a powerful aggregation feature and we can calculate data just with `map/filter/reduce`.
+<br/>
 
-**case**: The requirements of the project are vague and unclear, but we are fire sure that we have to release the first MVP as fast as we can. And after that, we most probably will reimplement it from scratch.
-**database**: document-oriented DB (mongoDB)
-**why**: The database doesn’t have a strict data schema. It allows you to store not consistent data in one collection. It’s a killer feature for a fast launch.
+- **case**: The requirements of the project are vague and unclear, but we are fire sure that we have to release the first MVP as fast as we can. And after that, we most probably will reimplement it from scratch.
+- **database**: document-oriented DB (mongoDB)
+- **why**: The database doesn’t have a strict data schema. It allows you to store not consistent data in one collection. It’s a killer feature for a fast launch.
+<br/>
 
-**case**: We are going to write an application to store a huge amount of entities with a lot of relations. The application is similar to a social network
-**database**: graph DB (neo4j)
-**why**: Only graph DBs suit the best for data structure with a lot of relations. It won’t be difficult to manipulate entities and relations in any graph DB.
+- **case**: We are going to write an application to store a huge amount of entities with a lot of relations. The application is similar to a social network
+- **database**: graph DB (neo4j)
+- **why**: Only graph DBs suit the best for data structure with a lot of relations. It won’t be difficult to manipulate entities and relations in any graph DB.
+<br/>
 
-**case**: We can clearly imagine how to store our data in a single excel file or we want to be deeply immersed in database design.
-**database**: any SQL database
-**why**: There is a huge amount of methodology about
+- **case**: We can clearly imagine how to store our data in a single excel file or we want to be deeply immersed in database design.
+- **database**: any SQL database
+- **why**: There is a huge amount of methodology about
 database design, data modelling, query optimization, database normalization, etc. Its mature and reliable technology, therefore, a lot of tutorials, manuals and books are available.
+<br/>
+
+[dev.to](https://dev.to/kopylov_vlad/which-database-to-choose-for-your-project-2p2g)
