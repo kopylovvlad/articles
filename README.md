@@ -8,6 +8,7 @@ Hello, it's my blog. Here I post links to my article about computer science, sof
 
 ## List of articles / Список статей
 
+- [🇬🇧 Why programming languages are slow](https://github.com/kopylovvlad/articles/tree/master/articles/057_why_programming_languages_are_slow)
 - [🇬🇧 Which database to choose for your project](https://github.com/kopylovvlad/articles/tree/master/articles/056_which_database_to_choose_for_your_project)
 - [🇷🇺 Кто/Что такое DevOps?](https://github.com/kopylovvlad/articles/tree/master/articles/055_kto_chto_takoe_devops)
 - [🇷🇺 Список докладов что я советую к просмотру (2021)](https://github.com/kopylovvlad/articles/tree/master/articles/054_spisok_dokladov_chto_ya_sovetuyu_k_prosmotru)
