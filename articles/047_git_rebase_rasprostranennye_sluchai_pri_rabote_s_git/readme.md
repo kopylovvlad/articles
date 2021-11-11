@@ -12,6 +12,12 @@
 git push origin head -f
 ```
 
+Но есть более безопасный способ запушить код - использовать ключ [--force-with-lease](https://stackoverflow.com/questions/8939977/git-push-rejected-after-feature-branch-rebase)
+
+```
+git push origin head --force-with-lease
+```
+
 ## Кейсы
 
 1. Поправить коммит в середине (fixup + rebase)
