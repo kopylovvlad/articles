@@ -70,7 +70,7 @@ module LandingForms
 end
 ```
 
-The next model - is a model for Black Friday’s landing page. Attributes are first name, second name and email. If there is a requirement that email must be unique, we can add custom validation for email.
+The next model is a model for Black Friday’s landing page. Attributes are first name, second name and email. If there is a requirement that email must be unique, we can add custom validation for email.
 
 ```ruby
 # app/models/landing_forms/black_friday.rb
