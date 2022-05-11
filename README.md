@@ -8,6 +8,7 @@ Hello, it's my blog. Here I post links to my article about computer science, sof
 
 ## List of articles / Список статей
 
+- [🇬🇧 Crafting mini RubyOnRails](https://github.com/kopylovvlad/articles/tree/master/articles/060_crafting_mini_ruby_on_rails)
 - [🇬🇧 STI and multi attributes models in Rails](https://github.com/kopylovvlad/articles/tree/master/articles/059_sti_and_multi_attributes_models_in_rails)
 - [🇬🇧 NTLM authentication with Ruby and Faraday](https://github.com/kopylovvlad/articles/tree/master/articles/058_ntlm_authentication_with_ruby_and_faraday)
 - [🇬🇧 Why programming languages are slow](https://github.com/kopylovvlad/articles/tree/master/articles/057_why_programming_languages_are_slow)
