@@ -1,13 +1,14 @@
 # Hi there 👋
 
 🇬🇧
-Hello, it's my blog. Here I post links to my article about computer science, software engineering, programming on Ruby, Ruby on Rails etc.
+Hello, it's my blog. Here I post links to my articles about computer science, software engineering, programming on Ruby, Ruby on Rails etc.
 
 🇷🇺
 Привет, это мой блог. Здесь я публикую ссылки на мои статьи о компьютерных науках, программировании, Ruby, RoR и прочее.
 
 ## List of articles / Список статей
 
+- [🇬🇧 Why your ruby app deploy is getting progressively slower](https://github.com/kopylovvlad/articles/tree/master/articles/061_slow_deployment)
 - [🇬🇧 Crafting mini RubyOnRails](https://github.com/kopylovvlad/articles/tree/master/articles/060_crafting_mini_ruby_on_rails)
 - [🇬🇧 STI and multi attributes models in Rails](https://github.com/kopylovvlad/articles/tree/master/articles/059_sti_and_multi_attributes_models_in_rails)
 - [🇬🇧 NTLM authentication with Ruby and Faraday](https://github.com/kopylovvlad/articles/tree/master/articles/058_ntlm_authentication_with_ruby_and_faraday)
