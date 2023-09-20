@@ -8,6 +8,7 @@ Hello, it's my blog. Here I post links to my articles about computer science, so
 
 ## List of articles / Список статей
 
+- [🇬🇧 How to copy large folder fast](https://github.com/kopylovvlad/articles/tree/master/articles/062_copy_larfe_folder_fast)
 - [🇬🇧 Why your ruby app deploy is getting progressively slower](https://github.com/kopylovvlad/articles/tree/master/articles/061_slow_deployment)
 - [🇬🇧 Crafting mini RubyOnRails](https://github.com/kopylovvlad/articles/tree/master/articles/060_crafting_mini_ruby_on_rails)
 - [🇬🇧 STI and multi attributes models in Rails](https://github.com/kopylovvlad/articles/tree/master/articles/059_sti_and_multi_attributes_models_in_rails)
