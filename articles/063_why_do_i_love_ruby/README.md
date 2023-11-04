@@ -153,3 +153,5 @@
 Если у вас именно такие потребности, то сделать ставку на Ruby - хорошее решение!
 
 I ❤️ Ruby
+
+[dev.to](https://dev.to/kopylov_vlad/pochiemu-ia-proghrammiruiu-na-ruby-1dn2)

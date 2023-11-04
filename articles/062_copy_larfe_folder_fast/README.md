@@ -30,3 +30,5 @@ tar -xzf modules.tar.gz tmp/
 ```
 
 Fortunately, it helps me. The stage passes by 30 seconds, it's better than over 200 seconds. Remember about it that some folders on your server can get bigger and it can make your deployment slower.
+
+[dev.to](https://dev.to/kopylov_vlad/how-to-copy-a-large-folder-fast-2apc)
