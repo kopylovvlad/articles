@@ -8,7 +8,9 @@ Hello, it's my blog. Here I post links to my articles about computer science, so
 
 ## List of articles / Список статей
 
-- [🇬🇧 Почему я программирую на Ruby](https://github.com/kopylovvlad/articles/tree/master/articles/063_why_do_i_love_ruby)
+- [Why do I love Ruby](https://github.com/kopylovvlad/articles/tree/master/articles/065_why_do_i_love_ruby)
+- [🇬🇧 How to run CRON with Docker in alpine](https://github.com/kopylovvlad/articles/tree/master/articles/064_cron_with_docker_in_alpine)
+- [🇷🇺 Почему я программирую на Ruby](https://github.com/kopylovvlad/articles/tree/master/articles/063_why_do_i_love_ruby)
 - [🇬🇧 How to copy large folder fast](https://github.com/kopylovvlad/articles/tree/master/articles/062_copy_larfe_folder_fast)
 - [🇬🇧 Why your ruby app deploy is getting progressively slower](https://github.com/kopylovvlad/articles/tree/master/articles/061_slow_deployment)
 - [🇬🇧 Crafting mini RubyOnRails](https://github.com/kopylovvlad/articles/tree/master/articles/060_crafting_mini_ruby_on_rails)
