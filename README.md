@@ -8,6 +8,7 @@ Hello, it's my blog. Here I post links to my articles about computer science, so
 
 ## List of articles / Список статей
 
+- [🇷🇺 Долгий дофамин: чему нас учат сложные игры](https://github.com/kopylovvlad/articles/tree/master/articles/067_dolgiy_dophamine)
 - [🇷🇺 Заменять ли нас нейросети](https://github.com/kopylovvlad/articles/tree/master/articles/066_zamenyat_li)
 - [🇬🇧 Why do I love Ruby](https://github.com/kopylovvlad/articles/tree/master/articles/065_why_do_i_love_ruby)
 - [🇬🇧 How to run CRON with Docker in alpine](https://github.com/kopylovvlad/articles/tree/master/articles/064_cron_with_docker_in_alpine)
