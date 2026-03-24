@@ -8,6 +8,8 @@ Hello, it's my blog. Here I post links to my articles about computer science, so
 
 ## List of articles / Список статей
 
+- [🇷🇺 Параллелизм в ruby 2: ограничиваем потоки](https://github.com/kopylovvlad/articles/tree/master/articles/069_parallels_ruby_2)
+- [🇷🇺 Параллелизм в ruby 1: создаем потоки](https://github.com/kopylovvlad/articles/tree/master/articles/068_parallels_ruby_1)
 - [🇷🇺 Долгий дофамин: чему нас учат сложные игры](https://github.com/kopylovvlad/articles/tree/master/articles/067_dolgiy_dophamine)
 - [🇷🇺 Заменять ли нас нейросети](https://github.com/kopylovvlad/articles/tree/master/articles/066_zamenyat_li)
 - [🇬🇧 Why do I love Ruby](https://github.com/kopylovvlad/articles/tree/master/articles/065_why_do_i_love_ruby)
