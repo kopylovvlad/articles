@@ -1,12 +1,17 @@
 # Hi there 👋
 
 🇬🇧
-Hello, it's my blog. Here I post links to my articles about computer science, software engineering, programming on Ruby, Ruby on Rails etc.
+Hello, it's my blog. Here I post links to my articles about computer science, software engineering, programming on Ruby, Ruby on Rails and sometimes about games.
 
 🇷🇺
-Привет, это мой блог. Здесь я публикую ссылки на мои статьи о компьютерных науках, программировании, Ruby, RoR и прочее.
+Привет, это мой блог. Здесь я публикую ссылки на мои статьи о компьютерных науках, программировании, Ruby, RoR и иногда про игры.
 
-## List of articles / Список статей
+## Articles about games / Статьи про игры 👾
+
+- [👾🇷🇺 OneShot: как инди-игра делает потерю игровой механикой](https://github.com/kopylovvlad/articles/tree/master/games/02_oneshot)
+- [👾🇷🇺 Долгий дофамин: чему нас учат сложные игры](https://github.com/kopylovvlad/articles/tree/master/games/01_silksong)
+
+## List of articles about IT / Список статей про IT 👩‍💻
 
 - [🇷🇺 Параллелизм в ruby 2: ограничиваем потоки](https://github.com/kopylovvlad/articles/tree/master/articles/069_parallels_ruby_2)
 - [🇷🇺 Параллелизм в ruby 1: создаем потоки](https://github.com/kopylovvlad/articles/tree/master/articles/068_parallels_ruby_1)
